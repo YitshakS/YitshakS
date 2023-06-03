@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;My+name+is+Yitzhak+Schlissel;Welcome+to+my+git)](https://git.io/typing-svg)
 
+![til](./hard_working_on_computer_anim_md_nwm_v2[1].gif)
+
+
+
 <!--
 **YitshakS/YitshakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
