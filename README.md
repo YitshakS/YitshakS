@@ -1,5 +1,6 @@
 ![3D man typing on a computer](./hard_working_on_computer_anim_md_nwm_v2[1].gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+name+is+Yitzhak+Schlissel;Welcome+to+my+git)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+name+is+Yitzhak+Schlissel;Welcome+to+my+git&font=VT323&size=30&color=00B139)](https://git.io/typing-svg)
 
 <!--
 **YitshakS/YitshakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
