@@ -2,7 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+name+is+Yitzhak+Schlissel;Welcome+to+my+git&font=VT323&size=30&color=00B139)](https://git.io/typing-svg)
 
 <!--
-Typing SVG
+coding
+https://www.presentermedia.com/powerpoint-animation/hard-working-on-computer-anim-pid-7364
+
+typing svg
 https://readme-typing-svg.demolab.com
 
 emojis
