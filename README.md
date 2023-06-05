@@ -2,6 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+name+is+Yitzhak+Schlissel;Welcome+to+my+git&font=VT323&size=30&color=00B139)](https://git.io/typing-svg)
 
 <!--
+Typing SVG
+https://readme-typing-svg.demolab.com
+
+emojis
+https://webfx.com/tools/emoji-cheat-sheet
+-->
+
+<!--
 **YitshakS/YitshakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
