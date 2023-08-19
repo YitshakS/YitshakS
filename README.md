@@ -1,6 +1,58 @@
 ![3D man typing on a computer](./coding.gif)<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+name+is+Yitzhak+Schlissel;Welcome+to+my+git&font=VT323&size=30&color=00B139)](https://git.io/typing-svg)
 
+**My projects portfolio:**
+
+**1. ice-cloud: Full Stack (CRUD) + Machine Learning (ML) + Artificial Intelligence (AI)1. ice-cloud: Full Stack (CRUD) + Machine Learning (ML) + Artificial Intelligence (AI)**
+🍦 Full Stack (CRUD) project, simulates a Back Office of an ice cream parlor chain,
+with Machine Learning supervises the transactions to generate sales predictions.
+
+The project demonstrates the use of the following technologies:
+
+🟤 Client side (Front end): React, Bootstrap, Chart.js, Font Awesome, etc.
+🔵 Server side (Back end): Node.js, Express, SQL (MySQL), NoSQL (MongoDB), etc.
+🟢 Architectural design patterns: Model View Controller, etc.
+🟠 Machine Learning: BigML
+
+Code: https://github.com/YitshakS/ice-cloud/tree/main
+Client: https://YitshakS.github.io/ice-cloud
+Server: http://ice-cloud.tikshoret.net
+Demo video: https://youtu.be/tb1q-Ou0TH4?t=2
+
+**2. The Master of Games: 3D Adventure Game (Quest) + Unity (Game Engine)+ C#2. The Master of Games: 3D Adventure Game (Quest) + Unity (Game Engine)+ C#**
+In the world of games, a mysterious bug occurred, in which the main and famous characters from different games, stumbled together into the world of Minecraft. If you help the characters, they will be happy to return the favor and help you back, both as a sign of gratitude and appreciation, and also because each of them wants to return to their original game world and complete their mission. Knowing the game where each character comes from, can provide you with a clue, as the assistance given to each character and the assistance received from them are, related to their attributes. Working together as a team, you can find out who the Master of Games is, and let him know about the bug, so he can fix it and free everyone.
+
+Online game: https://izk.itch.io/master
+Code: https://GitHub.com/YitshakS/MasterOfGames
+Video trailer: https://youtu.be/Bu_T88zpD8Y
+
+**3. Learning sorting algorithms by animation: HTML + CSS + JavaScript3. Learning sorting algorithms by animation: HTML + CSS + JavaScript**
+Owner's manual:
+
+1️⃣ Array properties - allows you to define the colors of array and animation, the number and content of values
+2️⃣ Sort properties - allows you to define the type and speed of sort, get an explanation about it and watch the animation. You can select "all sorts" and compare the speed, amount of comparisons and swaps. The arrow shows the subset sorted so far
+3️⃣ Clear data - allows you to reset everything and start over
+
+Online live demo: https://YitshakS.GitHub.io/sorts
+Code: https://GitHub.com/YitshakS/sorts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 coding
 https://www.presentermedia.com/powerpoint-animation/hard-working-on-computer-anim-pid-7364
