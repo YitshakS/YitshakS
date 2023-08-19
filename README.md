@@ -10,10 +10,10 @@ with Machine Learning supervises the transactions to generate sales predictions.
 
 This project uses the following technologies:
 
-🔴 Client side (Front end): React, Bootstrap, Chart.js, Font Awesome, etc.<br/>
-🟢 Server side (Back end): Node.js, Express, SQL (MySQL), NoSQL (MongoDB), etc.<br/>
-🔵 Architectural design patterns: Model View Controller, etc.<br/>
-⚫ Machine Learning: BigML
+🔴 **Client side (Front end):** React, Bootstrap, Chart.js, Font Awesome, etc.<br/>
+🟢 **Server side (Back end):** Node.js, Express, SQL (MySQL), NoSQL (MongoDB), etc.<br/>
+🔵 **Architectural design patterns:** Model View Controller, etc.<br/>
+⚫ **Machine Learning:** BigML
 
 Code: https://github.com/YitshakS/ice-cloud/tree/main<br/>
 Client: https://YitshakS.github.io/ice-cloud<br/>
