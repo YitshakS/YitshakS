@@ -13,8 +13,7 @@ This project uses the following technologies:
 🟤 Client side (Front end): React, Bootstrap, Chart.js, Font Awesome, etc.<br/>
 🔵 Server side (Back end): Node.js, Express, SQL (MySQL), NoSQL (MongoDB), etc.<br/>
 🟢 Architectural design patterns: Model View Controller, etc.<br/>
-🟠 Machine Learning: BigML
-🔴🟠🟡🟢🔵🟣🟤⚫⚪
+🔴 Machine Learning: BigML
 
 Code: https://github.com/YitshakS/ice-cloud/tree/main<br/>
 Client: https://YitshakS.github.io/ice-cloud<br/>
@@ -28,7 +27,7 @@ In the world of games, a mysterious bug occurred, in which the main and famous c
 This project uses the following technologies:
 
 🟡 Unity (Game Engine)<br/>
-⚪ C#
+⚫ C#
 
 Online game: https://izk.itch.io/master<br/>
 Code: https://GitHub.com/YitshakS/MasterOfGames<br/>
@@ -44,9 +43,9 @@ Owner's manual:
 
 This project uses the following technologies:
 
-⚫ HTML<br/>
-🟣 CSS<br/>
-🔴 JavaScript
+🟠 HTML<br/>
+⚪ CSS<br/>
+🟣 JavaScript
 
 Online live demo: https://YitshakS.GitHub.io/sorts<br/>
 Code: https://GitHub.com/YitshakS/sorts
