@@ -37,9 +37,9 @@ Video trailer: https://youtu.be/Bu_T88zpD8Y<br/>
 
 Owner's manual:
 
-1️⃣ Array properties - allows you to define the colors of array and animation, the number and content of values<br/>
-2️⃣ Sort properties - allows you to define the type and speed of sort, get an explanation about it and watch the animation. You can select "all sorts" and compare the speed, amount of comparisons and swaps. The arrow shows the subset sorted so far<br/>
-3️⃣ Clear data - allows you to reset everything and start over<br/>
+1️⃣ **Array properties:** allows you to define the colors of array and animation, the number and content of values<br/>
+2️⃣ **Sort properties:** allows you to define the type and speed of sort, get an explanation about it and watch the animation. You can select "all sorts" and compare the speed, amount of comparisons and swaps. The arrow shows the subset sorted so far<br/>
+3️⃣ **Clear data:** allows you to reset everything and start over<br/>
 
 This project uses the following technologies:
 
