@@ -15,7 +15,7 @@ The project demonstrates the use of the following technologies:
 🟢 Architectural design patterns: Model View Controller, etc.<br/>
 🟠 Machine Learning: BigML
 
-Code: https://github.com/YitshakS/ice-cloud/tree/main<br/>
+Code: github.com/YitshakS/ice-cloud/tree/main<br/>
 Client: https://YitshakS.github.io/ice-cloud<br/>
 Server: http://ice-cloud.tikshoret.net<br/>
 Demo video: https://youtu.be/tb1q-Ou0TH4?t=2
