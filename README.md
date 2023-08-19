@@ -20,7 +20,7 @@ Client: https://YitshakS.github.io/ice-cloud<br/>
 Server: http://ice-cloud.tikshoret.net<br/>
 Demo video: https://youtu.be/tb1q-Ou0TH4?t=2
 
-**2. The Master of Games: 3D Adventure Game (Quest) + Unity (Game Engine)+ C#**
+🧙🏼 🧙🏼‍♂️**2. The Master of Games: 3D Adventure Game (Quest) + Unity (Game Engine)+ C#**
 
 In the world of games, a mysterious bug occurred, in which the main and famous characters from different games, stumbled together into the world of Minecraft. If you help the characters, they will be happy to return the favor and help you back, both as a sign of gratitude and appreciation, and also because each of them wants to return to their original game world and complete their mission. Knowing the game where each character comes from, can provide you with a clue, as the assistance given to each character and the assistance received from them are, related to their attributes. Working together as a team, you can find out who the Master of Games is, and let him know about the bug, so he can fix it and free everyone.
 
