@@ -36,7 +36,7 @@ Owner's manual:
 2️⃣ Sort properties - allows you to define the type and speed of sort, get an explanation about it and watch the animation. You can select "all sorts" and compare the speed, amount of comparisons and swaps. The arrow shows the subset sorted so far<br/>
 3️⃣ Clear data - allows you to reset everything and start over<br/>
 
-Online live demo: https://YitshakS.GitHub.io/sorts
+Online live demo: https://YitshakS.GitHub.io/sorts<br/>
 Code: https://GitHub.com/YitshakS/sorts
 
 
