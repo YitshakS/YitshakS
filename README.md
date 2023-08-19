@@ -3,7 +3,7 @@
 
 **My projects portfolio:**
 
-## 🍦 ** ice-cloud: Full Stack (CRUD) + Machine Learning (ML) + Artificial Intelligence (AI)**
+## 🍦 ice-cloud: Full Stack (CRUD) + Machine Learning (ML) + Artificial Intelligence (AI)
 
 Full Stack (CRUD) project, simulates a Back Office of an ice cream parlor chain,
 with Machine Learning supervises the transactions to generate sales predictions.
