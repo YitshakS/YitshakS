@@ -33,7 +33,7 @@ Online game: https://izk.itch.io/master<br/>
 Code: https://GitHub.com/YitshakS/MasterOfGames<br/>
 Video trailer: https://youtu.be/Bu_T88zpD8Y<br/>
 
-## 🔢 Learning sorting algorithms by animation: HTML + CSS + JavaScript
+## 🔢 Learning sorting algorithms by animations: HTML + CSS + JavaScript
 
 Owner's manual:
 
